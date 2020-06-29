@@ -11,9 +11,7 @@ matplotlib>=1.4.3
 pandas>=0.19
 pip
 opencv-python
-cudnn
-cudatoolkit==10.1.243
-tensorflow-gpu==2.0.1
+tensorflow==2.0.1
 lxml
 tqdm
 seaborn
